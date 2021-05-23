@@ -16,14 +16,18 @@ When I was trying to gather these datas, I have not seen any problems and faced 
 
 References:
 
-<TAYLOR AND FRANCIS ONLINE> 
+<TAYLOR AND FRANCIS ONLINE>
+  
 https://www.tandfonline.com/doi/full/10.1080/14660970.2020.1846117
 
 <NCAA>
+  
 https://ncaaorg.s3.amazonaws.com/championships/sports/football/rules/2020PRMFB_COVID_RulesChanges_Waivers_Fall.pdf
 
 <WFSEUROPE>
+  
 https://worldfootballsummit.com/wfs-special-report-covid-19-implications-on-the-football-industry/
 
 <KEYSTONEMASTERSTUDIES>
+  
 https://www.masterstudies.com/article/how-is-covid-19-affecting-the-football-industry/
