@@ -1,4 +1,4 @@
-DELIVERABLES A
+<span style="color: green"> DELIVERABLES A </span>
 
 Impact of COVID-19 on football
 
