@@ -12,7 +12,7 @@ This process has revealed abrupt as well as radical changes in the organization,
 DELIVERABLES B
 
 The Challenges Of Data Gathering:
-When I was trying to gather these datas, I have not seen any problems and faced any challenges because there a lot of datas about that topic and most of them are approved by some vital institution.
+JWhen I was trying to gather these datas, I have not seen any problems and faced any challenges because there a lot of datas about that topic and most of them are approved by some vital institution.
 
 References:
 
