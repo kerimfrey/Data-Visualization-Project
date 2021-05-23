@@ -16,9 +16,7 @@ When I was trying to gather these datas, I have not seen any problems and faced 
 
 References:
 
-<TAYLOR AND FRANCIS ONLINE>
-  
-https://www.tandfonline.com/doi/full/10.1080/14660970.2020.1846117
+<TAYLOR AND FRANCIS ONLINE> https://www.tandfonline.com/doi/full/10.1080/14660970.2020.1846117
 
 <NCAA>
   
