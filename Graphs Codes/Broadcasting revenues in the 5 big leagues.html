@@ -1,0 +1,37 @@
+<html>
+<head>
+<meta charset="utf8">
+<title>
+    Bailout Money Amount Chart-1
+</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script> 
+</head>
+
+<body>
+    
+    <canvas id="chart"></canvas> 
+    
+    <script>
+
+    var ctx= document.getElementById("chart").getContext('2d');
+    var chart = new Chart(ctx, {
+        type: 'bar',
+        
+        data:{
+            labels: ['Premier League(d)', 'Premier League(i)', 'La Liga(d)', 'La Liga(i)', 'Bundesliga(d)', 'Bundesliga(i)','Serie A(d)', 'Serie A(i)','Ligue 1(d)' ,'Ligue 1(i)' ],
+            datasets: [{
+                label: "Broadcasting revenues in the 5 big leagues - 2020/2021",
+                backgroundColor:["#0D47A1","#1565C0","#1976D2","#1E88E5","#2196F3","#42A5F5","#64B5F6","#90CAF9","#BBDEFB","#E3F2FD"],
+                data: [1858,1560,1152,897,1160,280,973,371,1153,80,]
+            }]
+        },
+    });
+
+</script>
+
+<b>*Note: Revenue from domestic TV deals = (d) <b/><br>
+<b>*Note: Revenue from international TV deals = (i) <b/>
+
+</body>
+
+</html>

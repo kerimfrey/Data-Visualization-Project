@@ -1,0 +1,38 @@
+<html>
+<head>
+<meta charset="utf8">
+<title>
+    Bailout Money Amount Chart-1
+</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script> 
+</head>
+
+<body>
+    
+    <canvas id="chart"></canvas> 
+    
+    <script>
+
+    var ctx= document.getElementById("chart").getContext('2d');
+    var chart = new Chart(ctx, {
+        type: 'bar',
+        
+        data:{
+            labels: ['2018/19-HW', '2018/19-HL', '2018/19-HD', 'GWA-HW', 'GWA-HL', 'GWA-HD','GWOA-HW', 'GWOA-HL', 'GWOA-HD',],
+            datasets: [{
+                label: "Covid-19 Has Turned Home Advantage Into Home Disadvantage in the German Soccer Bundesliga",
+                backgroundColor:["#0D47A1","#1565C0","#1976D2","#1E88E5","#2196F3","#42A5F5","#64B5F6","#90CAF9","#BBDEFB","#E3F2FD"],
+                data: [45,31,24,43,35,22,33,43,24,]
+            }]
+        },
+    });
+
+</script>
+
+<b>*Note: HW-HOME WINS <b/><br>
+<b>*Note: HL-HOME LOSSES <b/><br>
+<b>*Note: HD-DRAWS <b/><br>
+
+</body>
+
+</html>

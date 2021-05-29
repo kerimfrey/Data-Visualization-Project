@@ -1,0 +1,34 @@
+<html>
+<head>
+<meta charset="utf8">
+<title>
+    Bailout Money Amount Chart-1
+</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script> 
+</head>
+
+<body>
+    
+    <canvas id="chart"></canvas> 
+    
+    <script>
+
+    var ctx= document.getElementById("chart").getContext('2d');
+    var chart = new Chart(ctx, {
+        type: 'bar',
+        
+        data:{
+            labels: ['FC Juarez vs Atlas','Necaxa vs Tigres','Queretaro vs Chivas','America vs Leon','Puebla vs Cruz Azul'],
+            datasets: [{
+                label: "Matches with the largest ticket sales losses in the Clausura Liga MX championship due to the COVID-19 outbreak in 2020",
+                backgroundColor:["#0D47A1","#1565C0","#1976D2","#1E88E5","#2196F3","#42A5F5","#64B5F6","#90CAF9","#BBDEFB","#E3F2FD"],
+                data: [8.7,8,7.5,7.4,7.2]
+            }]
+        },
+    });
+
+</script>
+
+</body>
+
+</html>
