@@ -17,8 +17,7 @@ The Challenges Of Data Gathering:
 
 When I was trying to gather these datas, I have not seen any problems and faced any challenges because there a lot of datas about that topic and most of them are approved by some vital institution.
 
-References:
-
+## REFERENCES
 (TAYLOR AND FRANCIS ONLINE) https://www.tandfonline.com/doi/full/10.1080/14660970.2020.1846117
   
 (NCAA) https://ncaaorg.s3.amazonaws.com/championships/sports/football/rules/2020PRMFB_COVID_RulesChanges_Waivers_Fall.pdf
@@ -27,6 +26,7 @@ References:
 
 (KEYSTONEMASTERSTUDIES) https://www.masterstudies.com/article/how-is-covid-19-affecting-the-football-industry/
 
-Presentation Video Link: https://www.youtube.com/watch?v=rrD51h4VYt8
+## PRESENTATION VIDEO LINK 
+https://www.youtube.com/watch?v=rrD51h4VYt8
 
-# The largest heading
+
