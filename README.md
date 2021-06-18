@@ -30,6 +30,10 @@ I collected Covid-19 impact of Covid-19 on football data for data visualization.
 
 : https://www.footballwest.com.au/news-archive/ffa-statement-on-covid-19-impact-on-football-this-weekend
 
+- I followed the performances of football and football players from the website below and got information from here.
+
+: https://www.dw.com/en/covid-19s-impact-on-german-football-the-player/av-57030458
+
 ## THE CHALLENGES OF DATA GATHERING
 When I was trying to gather these datas, I have not seen any problems and faced any challenges because there a lot of datas about that topic and most of them are approved by some vital institution.
 
