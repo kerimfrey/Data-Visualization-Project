@@ -24,3 +24,5 @@ References:
 (WFSEUROPE) https://worldfootballsummit.com/wfs-special-report-covid-19-implications-on-the-football-industry/
 
 (KEYSTONEMASTERSTUDIES) https://www.masterstudies.com/article/how-is-covid-19-affecting-the-football-industry/
+
+Presentation Video Link: https://www.youtube.com/watch?v=rrD51h4VYt8
