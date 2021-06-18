@@ -1,5 +1,8 @@
 # IMPACT OF COVID-19 ON FOOTBALL
 
+## PRESENTATION VIDEO LINK 
+https://www.youtube.com/watch?v=rrD51h4VYt8
+
 ## PROBLEM 
 Impact of COVID-19 on football
 
@@ -43,9 +46,6 @@ I collected Covid-19 impact of Covid-19 on football data for data visualization.
 
 ## THE CHALLENGES OF DATA GATHERING
 When I was trying to gather these datas, I have not seen any problems and faced any challenges because there a lot of datas about that topic and most of them are approved by some vital institution.
-
-## PRESENTATION VIDEO LINK 
-https://www.youtube.com/watch?v=rrD51h4VYt8
 
 ## VIDEOS AND SOURCES THAT HELPED ME LEARN VISUALIZE WITH R
 - https://www.w3schools.com/r/default.asp
