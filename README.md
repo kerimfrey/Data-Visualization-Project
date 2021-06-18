@@ -1,8 +1,9 @@
 # IMPACT OF COVID-19 ON FOOTBALL
 
-## PROBLEM DESCRIPTION
-**Impact of COVID-19 on football
+## PROBLEM 
+Impact of COVID-19 on football
 
+## PROBLEM DESCRIPTION
 To say that the novel coronavirus (COVID-19) pandemic has changed the world would be an understatement. In less than a year since the virus emerged — and just over 6 months since tracking began in the the world — it’s brought about some changes in some industries across the globe. One of them is the football.
 As the world has gone through a major transformation in the ‘COVID-19, sport in general and football as the most popular mass spectator sport, in particular, has been no exception to this trend.
 COVID-19 has posed serious challenges and changes to the sports/soccer world and the responses of various stakeholders from the domain of sport/soccer have been diverse and intriguing across the globe.
