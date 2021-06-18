@@ -11,8 +11,15 @@ Confronting, negotiating and overcoming the challenges posed by the pandemic inv
 Although there was a complete stoppage of soccer initially almost everywhere across the world in March–April 2020 creating unprecedented confusion about the future of the game with all major leagues being stopped, Euro 2020 postponed and the Summer Olympics deferred, the gradual resumption of games and tournaments from May 2020 onwards began to represent the early impressions and initial responses to the pandemic.
 This process has revealed abrupt as well as radical changes in the organization, rules, spectatorship and telecast of the game, thereby affecting its cultural dimensions, commercial prospects and political implications. The way soccer has adjusted to the ‘new normal’ standard of the COVID Regime with quarantine sessions for players and match officials, stadiums without or with minimal spectators, COVID safety protocols for people on the field and in the stadium, and so on has elicited newer meanings and representations of the game.
 
-## THE CHALLENGES OF DATA GATHERING
+## INTRODUCTION
+Covid-19 has affected almost every businesses in the World. Of course, football is one of them. Especially big clubs in European are affected by Covid-19.
+In 5 big leagues, all of the broadcastings are affected because of empty stadiums.
+Before Covid-19, the rate of the home wins was more than the rate of the home lossess but with Covid-19, it has changed.
+Clubs earn money with matchday revenues. However, during Covid-09, many matches were delayed so it caused losing money.
+Because of the fact that stadiums were empty during Covid-19, clubs lost a lot of revenues. For that reason, they increased the price of tickets and it has affected supporters financail situtation.
+The COVID-19 pandemic at the beginning of 2020 hit the sports industry hard.
 
+## THE CHALLENGES OF DATA GATHERING
 When I was trying to gather these datas, I have not seen any problems and faced any challenges because there a lot of datas about that topic and most of them are approved by some vital institution.
 
 ## REFERENCES
