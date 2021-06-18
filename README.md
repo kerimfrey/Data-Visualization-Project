@@ -19,6 +19,11 @@ Clubs earn money with matchday revenues. However, during Covid-09, many matches 
 Because of the fact that stadiums were empty during Covid-19, clubs lost a lot of revenues. For that reason, they increased the price of tickets and it has affected supporters financail situtation.
 The COVID-19 pandemic at the beginning of 2020 hit the sports industry hard.
 
+## DATA GATHERING
+I collected Covid-19 impact of Covid-19 on football data for data visualization. I visualized this data with the datawrapper application. I have got the Covid-19 impact of Covid-19 on football data for from the addresses below.
+
+-https://www.sportsvalue.com.br/en/estudos/impact-of-covid-19-on-brazilian-football-clubs-revenues/
+
 ## THE CHALLENGES OF DATA GATHERING
 When I was trying to gather these datas, I have not seen any problems and faced any challenges because there a lot of datas about that topic and most of them are approved by some vital institution.
 
