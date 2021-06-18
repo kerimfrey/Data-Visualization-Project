@@ -26,6 +26,10 @@ I collected Covid-19 impact of Covid-19 on football data for data visualization.
  
 : https://www.sportsvalue.com.br/en/estudos/impact-of-covid-19-on-brazilian-football-clubs-revenues/
 
+- On this site, I can observe the effects of Covid 19 on football in general. I was able to see which sector was affected and how much.
+
+: https://www.footballwest.com.au/news-archive/ffa-statement-on-covid-19-impact-on-football-this-weekend
+
 ## THE CHALLENGES OF DATA GATHERING
 When I was trying to gather these datas, I have not seen any problems and faced any challenges because there a lot of datas about that topic and most of them are approved by some vital institution.
 
