@@ -34,13 +34,25 @@ I collected Covid-19 impact of Covid-19 on football data for data visualization.
 When I was trying to gather these datas, I have not seen any problems and faced any challenges because there a lot of datas about that topic and most of them are approved by some vital institution.
 
 ## REFERENCES
-(TAYLOR AND FRANCIS ONLINE) https://www.tandfonline.com/doi/full/10.1080/14660970.2020.1846117
+- (TAYLOR AND FRANCIS ONLINE) https://www.tandfonline.com/doi/full/10.1080/14660970.2020.1846117
   
-(NCAA) https://ncaaorg.s3.amazonaws.com/championships/sports/football/rules/2020PRMFB_COVID_RulesChanges_Waivers_Fall.pdf
+- (NCAA) https://ncaaorg.s3.amazonaws.com/championships/sports/football/rules/2020PRMFB_COVID_RulesChanges_Waivers_Fall.pdf
  
-(WFSEUROPE) https://worldfootballsummit.com/wfs-special-report-covid-19-implications-on-the-football-industry/
+- (WFSEUROPE) https://worldfootballsummit.com/wfs-special-report-covid-19-implications-on-the-football-industry/
 
-(KEYSTONEMASTERSTUDIES) https://www.masterstudies.com/article/how-is-covid-19-affecting-the-football-industry/
+- (KEYSTONEMASTERSTUDIES) https://www.masterstudies.com/article/how-is-covid-19-affecting-the-football-industry/
+
+- (COVID-19 Impact Report (March 2020 - March 2021) https://www.tranmererovers.co.uk/news/2021/may/covid-19-impact-report-march-2019---march-2020/
+
+- (Europe from February 2020 to May 2020) https://www.statista.com/statistics/1135253/covid-19-change-in-aggregated-squad-value-of-european-football-clubs/
+
+- (The impact of COVID-19 on the European football ecosystem) https://www.sciencedirect.com/science/article/abs/pii/S0040162521000093
+
+- (Introduction: COVID-19 and the soccer world) https://www.tandfonline.com/doi/full/10.1080/14660970.2020.1846117
+
+- (Covid-19 impact on Football) https://www.linkedin.com/pulse/covid-19-impact-football-yashodhan-rana/
+
+- (COVID-19 And Its Impact On Football) https://www.lawinsport.com/topics/covid19-impact/item/coronavirus-a-and-its-impact-on-football-a-sports-law-and-policy-centre-and-lawinsport-joint-survey-2
 
 ## PRESENTATION VIDEO LINK 
 https://www.youtube.com/watch?v=rrD51h4VYt8
